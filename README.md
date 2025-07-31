@@ -3,6 +3,7 @@
 > 이 프로젝트는 **Blinkit의 장기적 수익성 극대화를 위한 전략적 마케팅 방향 설정**을 위한 데이터 기반 대시보드입니다.  
 > 고객(Customer), 상품(Product), 프로모션(Promotion) 3개의 영역을 중심으로 고수익 기여 요소를 식별하고, 마케팅 투자 효율성과 예산 분배 전략 수립에 기여합니다.
 
+### 👉 [대시보드 바로가기](https://lookerstudio.google.com/reporting/863c2fa1-fe75-4c8e-8bed-a99e07bdb893/page/tPtSF)
 ---
 
 # [1] 프로젝트 개요
